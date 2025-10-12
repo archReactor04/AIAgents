@@ -1,0 +1,12 @@
+# Core dependencies
+openai>=1.0.0
+git+https://github.com/openai/swarm.git
+
+# UI
+streamlit>=1.30.0
+
+# Data validation
+pydantic>=2.5.0
+
+# Utilities
+python-dotenv>=1.0.0
